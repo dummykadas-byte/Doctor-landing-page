@@ -1,0 +1,6 @@
+{
+  "name": "Medicare",
+  "description": "Premium modern healthcare SaaS and medical portfolio landing page.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
